@@ -1,0 +1,26 @@
+{
+  "name": "atelier",
+  "version": "0.1.0",
+  "description": "One design studio for Claude: art direction for sites, product UI and design systems, motion and scrollytelling, accessibility and visual QA. An original synthesis of the most-used design skills, with one shared workflow and no duplicated rules.",
+  "author": {
+    "name": "Jacopo Marini",
+    "url": "https://github.com/JacopoMarini"
+  },
+  "homepage": "https://github.com/JacopoMarini/atelier",
+  "repository": "https://github.com/JacopoMarini/atelier",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "frontend",
+    "ui",
+    "ux",
+    "art-direction",
+    "design-system",
+    "motion",
+    "animation",
+    "scrollytelling",
+    "accessibility",
+    "wcag",
+    "visual-qa"
+  ]
+}

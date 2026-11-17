@@ -1,0 +1,21 @@
+{
+  "name": "atelier",
+  "owner": {
+    "name": "Jacopo Marini",
+    "url": "https://github.com/JacopoMarini"
+  },
+  "metadata": {
+    "description": "Atelier: a single design plugin for Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "atelier",
+      "source": "./",
+      "description": "Art direction, product UI, motion and scrollytelling, accessibility and visual QA in one plugin with a shared workflow.",
+      "version": "0.1.0",
+      "category": "design",
+      "tags": ["design", "frontend", "ui", "motion", "accessibility"]
+    }
+  ]
+}
